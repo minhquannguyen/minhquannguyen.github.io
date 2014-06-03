@@ -6,16 +6,19 @@
 	list-style-type: none;
 	padding-right:20px;
 }
-p
+#navcontainer
 {
-color:red;
-text-align:center;
+	float:right;
 }
 #container
 {
 	color:white;
 }
-.center
+#profile
 {
-	text-align:center;
+
+}
+#name
+{
+	font-family: verdana;
 }
