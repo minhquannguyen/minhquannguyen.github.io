@@ -6,6 +6,11 @@
 	list-style-type: none;
 	padding-right:20px;
 }
+#home
+{
+	float:left;
+	margin-left:20px;
+}
 #navcontainer
 {
 	float:right;
