@@ -12,6 +12,7 @@
 #navcontainer
 {
 	float:right;
+	margin-right:20px;
 }
 #container
 {
@@ -30,7 +31,7 @@
 {	
 	display:inline;
 	font-size: 30px;
-	font-family: verdana;
+	margin-left:20px;
 }
 .picture
 {
@@ -38,12 +39,21 @@
 	height:280px;
 	/*border: 1px solid #333333;*/
     border-radius: 50%;
+    margin-left:20px;
+}
+p
+{
+	text-indent: 50px;
 }
 #about
 {
 	text-align:center;
+	size:50%;
 }
 a:link {
+/*    background-color: #DAE1E1;
+    width: 120px;
+    padding: 4px;*/
     text-decoration: none;
 }
 
