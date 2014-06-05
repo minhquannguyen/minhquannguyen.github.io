@@ -24,6 +24,10 @@
 	// 	count++;
 	// },3000);
 
+function mOverPic(){
+	document.getElementById("picture").innerHTML = "Hello";
+}	
+
 function mOver(obj){
 	obj.innerHTML = "minhquannguyen@berkeley.edu";
 }
