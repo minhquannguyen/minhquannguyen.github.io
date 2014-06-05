@@ -58,6 +58,7 @@
  
 .blur img:hover {
   -webkit-filter: blur(5px);
+  
 }
 
 #about {
