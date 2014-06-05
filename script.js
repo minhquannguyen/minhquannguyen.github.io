@@ -35,3 +35,11 @@ function mOver(obj){
 function mOut(obj){
 	obj.innerHTML = "Contact";
 }
+
+function displayText(){
+	document.getElementById("text").style.visibility = 'visible';
+}
+
+function removeText(){
+	document.getElementById("text").style.visibility = 'hidden';
+}
