@@ -61,6 +61,7 @@
 	margin-left: 230px;
 	text-align:justify;
 	height:50px;
+	 min-width: 700px;
 	/*word-wrap:break-word;*/
 	/*size:50%;*/
 }
@@ -107,6 +108,7 @@ a:active {
 
 html,
 body {
+   min-width: 700px;
    margin:0;
    padding:0;
    height:100%;
@@ -117,8 +119,10 @@ body {
 }
 #header {
    padding:10px;
+    min-width: 700px;
 }
 #body {
+	 min-width: 700px;
    padding:10px;
    padding-bottom:60px;   /* Height of the footer */
 }
@@ -142,6 +146,7 @@ body {
 }
 
 #experience-div{
+	 min-width: 700px;
 	padding:150px;
 	margin-left: 230px;
 	text-align:justify;
